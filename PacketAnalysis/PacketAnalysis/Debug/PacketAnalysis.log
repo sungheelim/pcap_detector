@@ -1,5 +1,0 @@
-﻿  Detector.cpp
-c:\users\성희\desktop\bob\pcap과제\packetanalysis\packetanalysis\detector.cpp(6): warning C4005: 'HAVE_REMOTE': macro redefinition
-  c:\users\성희\desktop\bob\pcap과제\packetanalysis\packetanalysis\detector.cpp(6): note: command-line arguments:  see previous definition of 'HAVE_REMOTE'
-  PacketAnalysis.vcxproj -> C:\Users\성희\Desktop\bob\pcap과제\PacketAnalysis\Debug\PacketAnalysis.exe
-  PacketAnalysis.vcxproj -> C:\Users\성희\Desktop\bob\pcap과제\PacketAnalysis\Debug\PacketAnalysis.pdb (Full PDB)
